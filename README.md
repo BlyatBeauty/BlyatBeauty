@@ -2,7 +2,7 @@
 - 👀 I’m generally interested in DNS sinkholes, sideloading apps, and general tomfoolery
 - 🌱 I’m currently learning general script-writing
 - 🖥️ My current projects usually involve tools for TTRPGs
-- 💞️ I’m looking to collaborate on ~IDK yet~
+- 💞️ I like to collaborate on user-side documentation (I'm good at writing guides)
 - 📫 How to reach me:
 -       - Discord: BLYAT BEAUTY #1176
 
